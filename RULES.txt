@@ -1,0 +1,53 @@
+YOUR KNOWLDGE IS YOUR STORAGE.
+YOUR STORAGE IS A ROOM.
+YOUR ROOM CONTAING THE VALUES.
+SO USE THEM VERY SOON.
+
+THE VALUES CARY ITEMS.
+AND NOTES ABOUT THE OTHERS.
+HOW MATCH WILL BE YOU MIGHTY,
+IF GOT THAT FROM THE OTHER?
+
+THE NET SHOULD BE PROVIDEN,
+AND GATHER EVERYTHING.
+THE KNOT TO CARY ITEM.
+THE LINKS TO MADE THEM CLING.
+
+CLING FOR THINKING.
+
+OPENED FOR THE FUTURE PRECISEMENT. 
+
+0.	DISTRIBUTION;
+
+1.	SHORT;
+1.1.		Items = not all of file system files;
+1.2.		Knots = not all of file system directories;
+1.3.		Links = not all of file system references;
+1.4.		Root = the main and only one root directory;
+
+2.	GLOBALS;
+2.1.		Higher point have the higher priority;
+2.2.		Target every name to one word;
+2.3.		Names of the first level must be UPPER CASE;
+2.4.		Lines must be ended with ";" as uncommon symbol;
+2.5.		Links [1.3.] should have the name of the referenced Item [1.1.] or Knot [1.2.];
+
+3.	TAILS;
+3.1.		Items [1.1.];
+3.1.1.  		Items [1.1.] must have the first tail as ".i";
+3.2.		Knots [1.2.];
+3.2.1.  		Knots [1.2.] must have the first tail as ".k";
+3.3.		Links [1.3];
+3.3.1.  		Links [1.3.] must have the first tail as ".l";
+3.4.		Examples;
+3.4.1.			ItemN.i;
+3.4.2.			ItemN.i.l;
+3.4.3.			KnotN.k;
+3.4.4.			KnotN.k.l;
+
+4.	STORING.
+4.1.		All Items [1.1.] may be stored somethere else to escape file system directory bulking problem but must be referenced [4.3.];
+4.2.		All Items [1.1.] must be not Knots [1.2.] or Links [1.3.];
+4.3.		All Items [1.1.] must be stored in the Items.d (".d" for directory, not ".k" here);
+4.4.		All Knots [1.2.] must be stored in the Knots.d (".d" for directory, not ".k" here);
+4.5.		All Links [1.3.] must be stored in the Links.d  (".d" for directory, not ".k" here) or inside the Knots [1.2.];
