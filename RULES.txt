@@ -18,9 +18,9 @@ CLING FOR THINKING.
 OPENED FOR THE FUTURE PRECISEMENT. 
 
 0.	DISTRIBUTION;
-0.1. Prefere the out of net machine to store the full version of your knet (you do not want to lose all your knowledge for free, aren't you?);
-0.2. Prefere the CD or DVD disks to store the phisical copy and backup of your knet (you do not want to lose all your knowledge for free, aren't you?);
-0.3. Prefere to backup knet in old-style - rare phisical copies on the different carryer type and often digital copies on the machine (you do not want to lose all your knowledge for free, aren't you?);
+0.1.    Prefere the out of net machine to store the full version of your knet (you do not want to lose all your knowledge for free, aren't you?);
+0.2.    Prefere the CD or DVD disks to store the phisical copy and backup of your knet (you do not want to lose all your knowledge for free, aren't you?);
+0.3.    Prefere to backup knet in old-style - rare phisical copies on the different carryer type and often digital copies on the machine (you do not want to lose all your knowledge for free, aren't you?);
 
 1.	SHORT;
 1.1.		Items = not all of file system files;
@@ -51,7 +51,8 @@ OPENED FOR THE FUTURE PRECISEMENT.
 4.	STORING.
 4.1.		All Items [1.1.] may be stored somethere else to escape file system directory bulking problem but must be referenced [4.3.];
 4.2.		All Items [1.1.] must be not Knots [1.2.] or Links [1.3.];
-4.3.		All Items [1.1.] must be stored in the Items.d (".d" for directory, not ".k" here);
-4.4.		All Knots [1.2.] must be stored in the Knots.d (".d" for directory, not ".k" here);
-4.5.		All Links [1.3.] must be stored in the Links.d  (".d" for directory, not ".k" here) or inside the Knots [1.2.];
+4.3.		All Items [1.1.] must be stored somethere, but have at least a Link [1.3.] to them in the Items.d (".d" for directory, not ".k" here);
+4.4.		All Knots [1.2.] must be stored in the Knots.d (".d" for directory, not ".k" here) inside other not root Knots [1.2.];
+4.5.		All Links [1.3.] must be stored inside the Knots [1.2.] or inside the Items.d [4.3.];
+
 
